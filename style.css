@@ -20,7 +20,7 @@ body{
     padding: 20px;
     border-radius: 16px;
     background: transparent;
-    box-shadow: 0px 3px 15px rgba(133,115,119,0.5);
+    box-shadow: 0px 3px 15px #fb7c14;
 }
 
 input{
@@ -33,11 +33,11 @@ input{
     font-size: 40px;
     text-align: right;
     cursor: pointer;
-    color: #ffffff;
+    color: #fb7c14;
 }
 
 input::placeholder{
-    color: #ffffff;
+    color: #fb7c14;
 }
 
 button{
@@ -47,7 +47,7 @@ button{
     margin: 10px;
     border-radius: 50%;
     background: transparent;
-    color: #ffffff;
+    color: #fb7c14;
     font-size: 20px;
     box-shadow: -8px -8px 15px rgba(255,255,255,0.1);
     cursor: pointer;
